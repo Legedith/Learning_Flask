@@ -1,5 +1,5 @@
 # Practicing for Hackathon
-1. [The problem statement](../Problem%20statement.md)
+1. [The problem statement](../master/Problem%20statement.md)
 2. Our solution
 3. Do we need to start from the beginning or has some work been done before us
 4. What tools do we need for implementation
